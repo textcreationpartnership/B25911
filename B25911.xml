@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to the Bishop of Munster; containing a panegyrick of his heroick atchievments, in heroick verse.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25911</idno><idno type="EEBO-CITATION">18782258</idno>
+  <idno type="VID">205287</idno>
+  <idno type="EEBO-PROQUEST">2240880600</idno>
+  
+            <idno type="STC">Wing L1729</idno>
+            <idno type="OCLC">18782258</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205287)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1653:31 or 1781:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to the Bishop of Munster; containing a panegyrick of his heroick atchievments, in heroick verse.</title>
+                  <author>Bernhard, Prince-Bishop of Münster, 1606-1678.</author>
+               </titleStmt>
+               <extent>8 p., [1] folded leaf of plates : ill., port.  </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year 1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Christopher Barnard Matthew van Gale, Bishop of Münster.</note>
+                  <note>Engraved frontispiece portrait.</note>
+                  <note>Item at reel 1653:31 identified as Wing G162 (number cancelled in CD-ROM).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bernhard, --  Prince-Bishop of Münster, 1606-1678 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205287:1"/>
+            <p>A LETTER TO THE Bishop of Munster; Containing a PANEGYRICK OF HIS Heroick Atchievments, IN <hi>HEROICK VERSE.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>LIV. Orat.</hi>
+               </bibl>
+               <p>Injurias &amp; non redditas, causam hujusce esse belli audisse videor.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1666.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:205287:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of bishop</figDesc>
+                  <p>TRES-ILLVSTRE ET TRES-EXCELLENT PRINCE, CHRISTOPHLE-BERNARD DE GALEN, EVESQVE DE MVNSTER, PRINCE DV SAINCT EMPIRE. <hi>Le Prince est apresent en guerre auec les Estats Generau<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> des Grou<gap reason="illegible" resp="#keyers" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> vnies des Pays-bas à l'occasion des places d'Etdeler et de Berkel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="verse_letter">
+            <pb facs="tcp:205287:3"/>
+            <pb n="3" facs="tcp:205287:3"/>
+            <head>A LETTER TO THE Bishop of Munster, &amp;c.</head>
+            <lg>
+               <l>REnowned <hi>Prince,</hi> Master of Might and Myter,</l>
+               <l>With sword of Flesh, and sword of Spirit fighter;</l>
+               <l>Ride on and prosper: (Sir) where you are Head</l>
+               <l>That Army's by a <hi>Prince</hi> and <hi>Prophet</hi> led,</l>
+               <l>
+                  <hi>Moses</hi> and <hi>Aaron:</hi> In a word you are</l>
+               <l>Both <hi>Mars</hi> and <hi>Mercury,</hi> Councel and Warre.</l>
+               <pb n="4" facs="tcp:205287:4"/>
+               <l>Your <hi>Camp</hi> consists of <hi>Christian</hi> Souldiers right,</l>
+               <l>And bravely do under <hi>Christs</hi> Banner fight.</l>
+               <l>Who ever sees you in the Field must grant</l>
+               <l>That now the Church is truly militant.</l>
+               <l>The <hi>French</hi> and <hi>Dutch,</hi> pure saints are in this fray,</l>
+               <l>That fight against the Church, are they not pray?</l>
+               <l>But they have found on both sides to their loss</l>
+               <l>The <hi>Bishops</hi> Crosier, <hi>France</hi> and <hi>Holland</hi>'s cross.</l>
+               <l>Whilest your bright two edg'd Sword, if I may say</l>
+               <l>Like that of Paradice? turns every way.</l>
+               <l>You sight with here both <hi>Babilon</hi> and <hi>Mecha,</hi>
+               </l>
+               <l>Strugling with divers Nations like <hi>Rebecka.</hi>
+               </l>
+               <l>
+                  <hi>Holland</hi> has all, that's no Religion; <hi>France</hi>
+               </l>
+               <l>Has complemented <hi>Christ</hi> to a <hi>Romance.</hi>
+               </l>
+               <l>You're come to do, what Mortal hardly can,</l>
+               <l>Christen a <hi>Jew,</hi> and a <hi>Samaritan.</hi>
+               </l>
+               <pb n="5" facs="tcp:205287:4"/>
+               <l>The frantick <hi>French,</hi> for so it seem'd you good,</l>
+               <l>To cure their Frenzie you baptiz'd in blood.</l>
+               <l>And for the <hi>Dutch,</hi> on a hard task you fall,</l>
+               <l>Yet cut their Sluces, you baptize 'em all.</l>
+               <l>The Faith's Defender promis'd to appear,</l>
+               <l>Great <hi>Brittan's</hi> Monarch to be God-father:</l>
+               <l>God-father did I say? unworthy Elves,</l>
+               <l>He comes to make 'em answer for themselves.</l>
+               <l>He did last year baptize their <hi>Admir'ltie</hi>
+               </l>
+               <l>As God did the <hi>Aegiptians</hi> i'th' <hi>Red Sea.</hi>
+               </l>
+               <l>But you (great Sir) you have 'em every way,</l>
+               <l>As <hi>Prince</hi> you beat, as <hi>Priest</hi> you make 'em pray;</l>
+               <l>And glad they can get quarter on their knees,</l>
+               <l>'Tis doubly fought, <hi>Paul</hi>'s Sword and <hi>Peter</hi>'s Keyes;</l>
+               <l>As for their <hi>Plumb-broth,</hi> though I tast it not,</l>
+               <l>I'm sure the <hi>Bishop</hi> set his foot i'th' pot.</l>
+               <pb n="6" facs="tcp:205287:5"/>
+               <l>All Winter they in troubled waters fisht,</l>
+               <l>A merry <hi>Christmas</hi> many times was wisht.</l>
+               <l>But as to you Sir Heaven has strow'd your way</l>
+               <l>With dust of Diamonds, and Pearls that lay</l>
+               <l>Thick as the piles of grass; where could ye go</l>
+               <l>But through th' Almighty's treasury of Snow?</l>
+               <l>The Christal waves conspir'd for want of Wood</l>
+               <l>To make themselves your Bridge o're their own flood.</l>
+               <l>The half starv'd <hi>Dutch</hi> a much worse bargain got,</l>
+               <l>A winter was too cold, service too hot.</l>
+               <l>Yet to this comfort oft they did resort,</l>
+               <l>The season though severe, the dayes were short:</l>
+               <l>And yet to such of them as dar'd to fight</l>
+               <l>They were so long they thought 'twould ne're be night.</l>
+               <l>Some sought for long, what others found too soon,</l>
+               <l>Such as were got in a dead sleep by noon:</l>
+               <pb n="7" facs="tcp:205287:5"/>
+               <l>They never heard the pamper'd Pransers stamp,</l>
+               <l>Nor wak'd they at the thunder of the <hi>Camp.</hi>
+               </l>
+               <l>
+                  <hi>Endimion</hi> did but wink, to these, whose eyes</l>
+               <l>
+                  <hi>Morpheus</hi> had lockt up with his leaden keyes.</l>
+               <l>'Tis not a Cucko storm, no, no, ware head</l>
+               <l>Cryes out the trembling boor, when it hails lead:</l>
+               <l>
+                  <hi>Flemmings</hi> look to't, here comes a new Spring tide,</l>
+               <l>Y' had need besluice your selves on <hi>Flanders</hi> side.</l>
+               <l>Here comes the <hi>Bishop</hi> with a deluge round ye,</l>
+               <l>Not to confirm ye, hang ye, but confound ye.</l>
+               <l>Has laid his hands upon your heads, I trow</l>
+               <l>You never thought to have been <hi>Bishopt</hi> so.</l>
+               <l>You must expect so long as he abides</l>
+               <l>In <hi>Flanders,</hi> he will soundly lace your sides.</l>
+               <l>
+                  <hi>Flanders</hi> will serve him for Lawn-sleeves he sayes,</l>
+               <l>But he'l have <hi>Holland</hi> for his Surplices.</l>
+               <pb n="8" facs="tcp:205287:6"/>
+               <l>He'l make ye write again, if at these rates</l>
+               <l>He humble ye, <hi>The poor distressed States.</hi>
+               </l>
+               <l>Address your suite then to the Myter'd man,</l>
+               <l>And lowly fall 'fore your <hi>Diocesan.</hi>
+               </l>
+               <l>The mouths of <hi>Cannons</hi> speak his loud <hi>Oration,</hi>
+               </l>
+               <l>Believe it <hi>Boors,</hi> 'tis a sharp <hi>Visitation.</hi>
+               </l>
+               <l>Who e're till now our eyes the witness be</l>
+               <l>Had thought t'have seen <hi>Holland</hi> a Bishops See?</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205287:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
